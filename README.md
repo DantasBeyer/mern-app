@@ -1,9 +1,13 @@
 Customer Wishlist:
 
 [ ] Replace current sticky note system 
+<br>
 [ ] Add a public facing page with basic contact info
+<br>
 [ ] Add an employee login to the notes app
+<br>
 [ ] Provide a wolcome page afte login 
+<br>
 [ ] Provide easy navigation
 [ ] Display Current user and assigned role
 [ ] Provide a logout option
